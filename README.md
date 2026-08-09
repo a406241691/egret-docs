@@ -1154,4 +1154,4 @@
 
 # egret-docs 
 
-#### Egret文档，你也可以访问 [白鹭开发者中心](http://developer.egret.com/cn/) 
+#### Egret文档，你也可以访问 [白鹭开发者中心](https://a406241691.github.io) 
